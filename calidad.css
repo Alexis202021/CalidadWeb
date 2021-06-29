@@ -1,0 +1,220 @@
+body{
+    width: 100%;
+    height: 100%;
+    margin: 0%;
+    padding: 0%;
+    background-color:darkgray;   
+}
+Header{
+    width: 100%;
+    height: 20%;
+    margin: 0%;
+    padding: 0%;
+    background-color:darkgray;
+    display: flex;
+    justify-content: space-between;
+}
+h1{
+    width: 20%;
+    height: 20%;
+    margin: 1%;
+    padding: 0%;
+    text-align: center;
+    color:rgb(0, 174, 255);
+    font-style:italic;
+    font-size: 25px;    
+}
+h2{
+    width: 70%;
+    height: 40%;
+    margin: 1%;
+    padding: 10%;
+    text-align: center;
+    color:green;
+    font-style:normal;
+    font-size: 50px;
+    text-shadow: -10px -10px 10px green;
+}
+.texto{
+    font-style:normal;
+    text-align: justify;
+    margin: 1%;
+    font-size: 16px;
+}
+.nombre{
+    width: 20%;
+    height: 100%;
+    margin: 1%;
+    padding: 0%;
+    
+}
+.contenido{
+    width: 100%;
+    height: 80%;
+    margin: 0%;
+    padding: 0%;
+    background-color:aquamarine;
+    display: flex;
+    justify-content: space-between;    
+}
+.principios{
+    width: 98%;
+    height: 100%;
+    margin:0%;
+    padding: 0%;
+    display: flex;
+}
+.imagen{ 
+    width : 90em;
+    height: 20em;
+    margin:1%;
+}
+section{
+    width: 98%;
+    height: 100%;
+    margin:1%;
+    display: flex;   
+}
+.iso{
+    border: 1px solid blue;
+    width: 100%;
+    height: 90%;
+    padding: 0.5%;
+    background-color: rgb(107, 226, 226);
+    text-align: justify;
+}
+.sello{
+    width : 26em;
+    height: 20em;
+    margin:1%;
+}
+.is{
+    background-color: azure;
+    width: 9%;
+    height: 70%;
+    border-radius: 100%;
+    margin: 1%; 
+    padding: 5%;
+    text-align: center;
+    border: 1px solid black;
+}
+.ieer{
+    background-color: azure;
+    width: 9%;
+    height: 70%;
+    border-radius: 100%;
+    margin: 1%; 
+    padding: 5%;
+    text-align: center;
+    border: 1px solid black;
+}
+.qbt{
+    background-color: azure;
+    width: 9%;
+    height: 70%;
+    border-radius: 100%;
+    margin: 1%; 
+    padding: 5%;
+    text-align: center;
+    border: 1px solid black;
+}
+.iee{
+    border: 1px solid blue;
+    width: 100%;
+    height: 100%;
+    padding: 0.5%;
+    background-color: rgb(107, 226, 226);
+    text-align: justify;
+}
+.ist{
+    border: 1px solid blue;
+    width: 100%;
+    height: 100%;
+    padding: 0.5%;
+    background-color: rgb(107, 226, 226);
+    text-align: justify;
+}
+footer{  
+    width: 65%;
+    height: 25%;
+    margin:1%;
+    padding: 1%;
+    display: flex;
+    justify-content: space-evenly;  
+}
+.red1{
+    border: 1px solid black;
+    width: 60%;
+    height: 70%;
+    margin:0%;
+    padding: 0px;
+    background-color:aqua;
+    display: flex;
+    align-self: flex-start;
+    text-align: center;   
+}
+.correo{
+    border: 1px solid black;
+    width: 7%;
+    height: 0%;
+    margin:0%;
+    padding: 10%;
+    background-color:white;
+    border-radius: 100%;
+    text-align: center;  
+}
+.red2{
+    border: 1px solid black;
+    width: 60%;
+    height: 70%;
+    margin: 0px;
+    padding: 0px;
+    background-color:aqua;
+    display: flex;
+    align-self: flex-start;
+    text-align: center;    
+}
+.sociales{
+    border: 1px solid black;
+    width: 7%;
+    height: 0%;
+    margin:0%;
+    padding: 10%;
+    background-color:white;
+    border-radius: 100%;
+    text-align: center;
+}
+.redes{
+    background-color:white;
+    width: 60%;
+    height: 60%;
+    margin:10%;
+    padding: 0%;
+}
+.ultimo{
+    border: 1px solid blue;
+    width: 100%;
+    height: 100%;
+    margin:1%;
+    padding:1%;
+    display:flex; 
+    justify-content: center;  
+}
+.terminos{
+    width: 100%;
+    height: 100%;
+    margin:1%;
+    padding:1%;
+    background-color:aqua;
+}
+.red3{
+    border: 1px solid black;
+    width: 60%;
+    height: 70%;
+    margin: 0px;
+    padding: 0px;
+    background-color:aqua;
+    display: flex;
+    align-self: flex-start;
+    text-align: center;   
+}
